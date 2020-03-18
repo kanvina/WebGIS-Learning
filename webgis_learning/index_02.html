@@ -1,0 +1,22 @@
+<!-- leaflet -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <script src="https://cesiumjs.org/releases/1.51/Build/Cesium/Cesium.js"></script>
+  <link href="https://cesiumjs.org/releases/1.51/Build/Cesium/Widgets/widgets.css" rel="stylesheet">
+</head>
+
+<body>
+  <div id="cesiumContainer" style="width: 100%; height:100%"></div>
+  <script>
+    Cesium.Ion.defaultAccessToken =
+      'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIwOGQyMTk4Yi1kNTAxLTRhOTktODA1NS0xZmM3ZTM5OWViOTciLCJpZCI6MjMzNjIsInNjb3BlcyI6WyJhc3IiLCJnYyJdLCJpYXQiOjE1ODMyNDc2NDB9.TObH13SSruQjzlqvaaJQ9scOUrQN2VaM5ZuuVdX23D0';
+
+    var viewer = new Cesium.Viewer('cesiumContainer');
+
+    viewer.zoomTo(wyoming);
+  </script>
+</body>
+
+</html>
