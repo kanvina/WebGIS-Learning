@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="lib/leaflet/leaflet.css">
+    <script src="lib/leaflet/leaflet.js"></script>
+    <script src="lib/jquery.js"></script>
+    <script src="app/GIS.js"></script>
+</head>
+
+<body>
+    <button id="btn_test">功能测试</button>
+    <button id="btn_test2">功能测试2</button>
+    <div id="map" style="width:100%;height:600px;"></div>
+
+    <script>
+       LGIS.InitMap("map")
+       $('#btn_test').click(
+           function(){
+            //LGIS.ChangeBackMap()
+            LGIS.point.show()
+            //LGIS.polyline.show()
+            //LGIS.polygon.show()
+            ClickShowLngLat()
+            //DrawCircle()
+            //DrawPolyline()
+           }
+       )
+
+       $('#btn_test2').click(
+           function(){
+            //Lmap.off('click')
+            //ClearPolyline()
+           }
+       )
+    </script>
+    
+</body>
+
+</html>

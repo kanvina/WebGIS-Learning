@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="医院" id="医院">
+	<SimpleField name="lng" type="float"></SimpleField>
+	<SimpleField name="lat" type="float"></SimpleField>
+</Schema>
+<Folder><name>医院</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.521258</SimpleData>
+		<SimpleData name="lat">42.830720</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.521258,42.83072</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.526661</SimpleData>
+		<SimpleData name="lat">42.823555</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.526661,42.823555</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.544785</SimpleData>
+		<SimpleData name="lat">42.836209</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.544785,42.836209</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.511385</SimpleData>
+		<SimpleData name="lat">42.841156</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.511385,42.841156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.585127</SimpleData>
+		<SimpleData name="lat">42.771136</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.585127,42.771136</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.007489</SimpleData>
+		<SimpleData name="lat">43.597771</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.007489,43.597771</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.437946</SimpleData>
+		<SimpleData name="lat">42.813319</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.437946,42.813319</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.476599</SimpleData>
+		<SimpleData name="lat">42.854739</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.476599,42.854739</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.545398</SimpleData>
+		<SimpleData name="lat">42.836613</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.545398,42.836613</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.503285</SimpleData>
+		<SimpleData name="lat">42.835076</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.503285,42.835076</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.488972</SimpleData>
+		<SimpleData name="lat">42.853639</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.488972,42.853639</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.957676</SimpleData>
+		<SimpleData name="lat">42.665451</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.957676,42.665451</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.491775</SimpleData>
+		<SimpleData name="lat">42.844092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.491775,42.844092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.501913</SimpleData>
+		<SimpleData name="lat">42.832101</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.501913,42.832101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.543341</SimpleData>
+		<SimpleData name="lat">42.829174</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.543341,42.829174</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.426629</SimpleData>
+		<SimpleData name="lat">42.576931</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.426629,42.576931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.524549</SimpleData>
+		<SimpleData name="lat">42.827062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.524549,42.827062</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.032938</SimpleData>
+		<SimpleData name="lat">43.597303</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.032938,43.597303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.551889</SimpleData>
+		<SimpleData name="lat">42.843045</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.551889,42.843045</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.552569</SimpleData>
+		<SimpleData name="lat">42.839591</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.552569,42.839591</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.653402</SimpleData>
+		<SimpleData name="lat">42.722494</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.653402,42.722494</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.524399</SimpleData>
+		<SimpleData name="lat">42.837859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.524399,42.837859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.542826</SimpleData>
+		<SimpleData name="lat">42.832138</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.542826,42.832138</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.528759</SimpleData>
+		<SimpleData name="lat">42.841732</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.528759,42.841732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.487060</SimpleData>
+		<SimpleData name="lat">42.902496</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.48706,42.902496</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.518683</SimpleData>
+		<SimpleData name="lat">42.837707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.518683,42.837707</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.507626</SimpleData>
+		<SimpleData name="lat">42.842284</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.507626,42.842284</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.505847</SimpleData>
+		<SimpleData name="lat">42.814466</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.505847,42.814466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.508178</SimpleData>
+		<SimpleData name="lat">42.813393</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.508178,42.813393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.485734</SimpleData>
+		<SimpleData name="lat">42.907662</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.485734,42.907662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.515092</SimpleData>
+		<SimpleData name="lat">42.816188</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.515092,42.816188</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.525356</SimpleData>
+		<SimpleData name="lat">42.833430</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.525356,42.83343</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.491358</SimpleData>
+		<SimpleData name="lat">42.868225</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.491358,42.868225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.524186</SimpleData>
+		<SimpleData name="lat">42.823766</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.524186,42.823766</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.532731</SimpleData>
+		<SimpleData name="lat">42.846520</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.532731,42.84652</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.510282</SimpleData>
+		<SimpleData name="lat">42.829275</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.510282,42.829275</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.528422</SimpleData>
+		<SimpleData name="lat">42.831376</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.528422,42.831376</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.525498</SimpleData>
+		<SimpleData name="lat">42.836837</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.525498,42.836837</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.744364</SimpleData>
+		<SimpleData name="lat">42.797272</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.744364,42.797272</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.434050</SimpleData>
+		<SimpleData name="lat">42.880947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.43405,42.880947</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.546072</SimpleData>
+		<SimpleData name="lat">42.849023</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.546072,42.849023</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">93.480735</SimpleData>
+		<SimpleData name="lat">42.830866</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>93.480735,42.830866</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#医院">
+		<SimpleData name="lng">92.675703</SimpleData>
+		<SimpleData name="lat">43.160091</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>92.675703,43.160091</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
