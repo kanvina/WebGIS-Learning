@@ -13,7 +13,7 @@
     ```xml
       <context-param>
         <param-name>GEOWEBCACHE_CACHE_DIR</param-name>
-        <param-value>D:\study\server\geoserver_tomcat\webapps\geoserver\data\data\tiles</param-value>
+        <param-value>data/data/tiles</param-value>
       </context-param>
     ```
 

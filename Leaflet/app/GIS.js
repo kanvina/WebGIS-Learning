@@ -83,6 +83,8 @@ LGIS.point.show = function () {
 
     //加载点标注（点标注为图层）
     marker.addTo(Lmap)
+    point_list.push(marker)
+
     //点标注绑定信息弹窗
     let popup_maker = marker.bindPopup("I am a popup")
     //打开弹窗
